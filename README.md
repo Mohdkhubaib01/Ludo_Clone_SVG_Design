@@ -9,8 +9,6 @@ This is a basic **Ludo Board Clone** created using pure SVG. It represents the s
 
 ![Ludo Clone Preview](assets/img.png)
 
-*(Note: You can take a screenshot of the SVG and save it as `screenshot.png` in the same directory.)*
-
 ---
 
 ## ✨ Features
